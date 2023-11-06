@@ -150,3 +150,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+LISS_Example data/LISS_example_input_data.csv
+LISS_Example data/LISS_example_groundtruth_data.csv
+LISS_Example data/.DS_Store
+LISS_Example data/codebook_SocialnetworkANDFertilityVariables_EN_9.3.pdf
+LISS_Example data/codebook_ReligionVariables_EN_9.3.pdf
+LISS_Example data/codebook_LowFertility_EN_9.3.pdf
+LISS_Example data/codebook_Income_EN_9.3.pdf
+LISS_Example data/codebook_HealthVariables_EN_9.3.pdf
+LISS_Example data/codebook_BackgroundVariables_EN_9.3.pdf
